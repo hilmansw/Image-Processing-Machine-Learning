@@ -1,1 +1,2 @@
-# Machine-Learning-Project
+# Rock Paper Scissors
+Created by: Hilman Singgih Wicaksana
